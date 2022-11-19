@@ -43,6 +43,10 @@ This calculator tool enables one to do all the mathematical operations like addi
 ![Screenshot (333)](https://user-images.githubusercontent.com/85881386/202843294-3173ce3b-abc2-4717-bf97-02d58913c00b.png)
 
 
+**Programming languages used**
+> CSS
+> HTML
+> Javascript
 
 
 
